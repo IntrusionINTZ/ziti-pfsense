@@ -28,6 +28,7 @@ ziti.ignore
 linux-build
 *.log
 /build/
+router/build
 go.work
 go.work.sum
 .github/workflows/localtest.yml
