@@ -1,3 +1,5 @@
+This fork is for Intrusion internal use to assess the feasibility of porting Ziti to the FreeBSD platform so that it can function with pfSense.
+
 ![OpenZiti Logo](https://raw.githubusercontent.com/openziti/ziti-doc/main/docusaurus/static/img/ziti-logo-dark.svg)
 
 <br>
